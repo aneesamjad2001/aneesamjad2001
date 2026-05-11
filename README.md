@@ -44,9 +44,9 @@ Building a public-sector jobs platform as one of two engineers. I work on API in
 
 ## Selected work
 
-### [PublicPath]
+### PublicPath
 
-A public-sector job discovery platform built to make government and policy career opportunities easier to find.
+[A public-sector job discovery platform built to make government and policy career opportunities easier to find.](https://github.com/aneesamjad2001/PublicPath)
 
 My work includes:
 
@@ -95,9 +95,9 @@ This work helped me see how strong data systems can support better regulatory an
 
 ---
 
-### [Political Narrative Navigator](https://github.com/uchicago-2026-capp30122/political-narrative-navigator)
+### Political Narrative Navigator
 
-A University of Chicago computer science project analyzing how U.S. presidential campaign speeches aligned with public issue priorities.
+[A University of Chicago computer science project analyzing how U.S. presidential campaign speeches aligned with public issue priorities.](https://github.com/uchicago-2026-capp30122/political-narrative-navigator)
 
 The project used:
 
