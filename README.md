@@ -2,7 +2,7 @@
 
 I’m a graduate student in the [**Master of Science in Computational Analysis and Public Policy**](https://capp.uchicago.edu/) program at the **University of Chicago**, where I work at the intersection of data science, public policy, and technology for social impact.
 
-My work focuses on using data, machine learning, and software tools to understand real-world problems — from education access and environmental policy to public-sector labor markets, behavioral research, and urban risk prediction.
+My work focuses on using data, machine learning, and software tools to understand real-world problems, from education access and environmental policy to public-sector labor markets, behavioral research, and urban risk prediction.
 
 Before coming to UChicago, I worked across research, data science, and analytics roles in Pakistan, where I built models, dashboards, data pipelines, and policy-facing tools using large administrative, survey, environmental, and geospatial datasets.
 
@@ -33,18 +33,18 @@ M.S. in Computational Analysis and Public Policy
 Expected June 2027
 
 🔬 **Research Assistant**  
-HOPE Lab, University of Chicago Booth School of Business  
+[HOPE Lab, University of Chicago Booth School of Business](https://voices.uchicago.edu/hopelab/research/)  
 Working on reproducible R/Python workflows, experimental data pipelines, Qualtrics programming, data validation, and statistical analysis.
 
 🛠️ **Co-Founder, Engineering and Data**  
-PublicPath  
+[PublicPath](https://tahvia127.github.io/PublicPath/)  
 Building a public-sector jobs platform as one of two engineers. I work on API integrations, data ingestion, database design, deduplication, search reliability, and user-facing platform features.
 
 ---
 
 ## Selected work
 
-### PublicPath
+### [PublicPath](https://github.com/aneesamjad2001/PublicPath)
 
 A public-sector job discovery platform built to make government and policy career opportunities easier to find.
 
@@ -62,7 +62,7 @@ This project reflects a lot of what I enjoy most: messy real-world data, useful 
 
 ### School Access Prediction in Pakistan
 
-At the **Pak Alliance for Maths and Science**, I worked on machine learning models to predict school enrollment and access outcomes using large-scale census and household survey data.
+At the [**Pak Alliance for Maths and Science**](https://mathsandscience.pk), I worked on machine learning models to predict school enrollment and access outcomes using large-scale census and household survey data.
 
 My work included:
 
@@ -75,7 +75,7 @@ My work included:
 
 I also co-authored the DARE-RC publication:
 
-**“Is it Just a Numbers Game? Predicting School Access for Out-of-School Children in Pakistan.”**
+[**“Is it Just a Numbers Game? Predicting School Access for Out-of-School Children in Pakistan.”**](https://darerc.org/is-it-just-a-numbers-game-predicting-school-access-for-out-of-school-children-in-pakistan/)
 
 ---
 
