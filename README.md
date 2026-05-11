@@ -28,7 +28,7 @@ I enjoy projects where the work does not end at the model or the analysis, but b
 ## Currently
 
 **Graduate Student**  
-University of Chicago  
+[University of Chicago](https://www.uchicago.edu)  
 M.S. in Computational Analysis and Public Policy  
 Expected June 2027
 
