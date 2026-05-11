@@ -1,6 +1,6 @@
 # Hi, I’m Anees Amjad 👋
 
-I’m a graduate student in the [**Master of Science in Computational Analysis and Public Policy**] (https://capp.uchicago.edu/) program at the **University of Chicago**, where I work at the intersection of data science, public policy, and technology for social impact.
+I’m a graduate student in the [**Master of Science in Computational Analysis and Public Policy**](https://capp.uchicago.edu/) program at the **University of Chicago**, where I work at the intersection of data science, public policy, and technology for social impact.
 
 My work focuses on using data, machine learning, and software tools to understand real-world problems — from education access and environmental policy to public-sector labor markets, behavioral research, and urban risk prediction.
 
