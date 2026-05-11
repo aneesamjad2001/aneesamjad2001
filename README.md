@@ -81,7 +81,7 @@ I also co-authored the DARE-RC publication:
 
 ### Environmental and Power-Sector Data Analysis
 
-At the **Center for Economic Research in Pakistan**, I worked with environmental, survey, and power-sector datasets for policy-facing research projects.
+At the [**Center for Economic Research in Pakistan**](https://www.cerp.org.pk/), I worked with environmental, survey, and power-sector datasets for policy-facing research projects.
 
 My work included:
 
@@ -95,7 +95,7 @@ This work helped me see how strong data systems can support better regulatory an
 
 ---
 
-### Political Narrative Navigator
+### [Political Narrative Navigator](https://github.com/uchicago-2026-capp30122/political-narrative-navigator)
 
 A University of Chicago computer science project analyzing how U.S. presidential campaign speeches aligned with public issue priorities.
 
@@ -185,7 +185,7 @@ I am especially drawn to projects where data, policy, and product thinking come 
 I’m always happy to connect about data science, public policy, research, civic technology, development, or public-sector product ideas.
 
 📧 Email: **aneesamjad@uchicago.edu**  
-🌐 Portfolio: **aneesamjad2001.github.io/website**  
-💻 GitHub: **github.com/aneesamjad2001**
+🌐 Portfolio: [**aneesamjad2001.github.io/website**](https://aneesamjad2001.github.io/website/)  
+💻 GitHub: [**github.com/aneesamjad2001**](https://github.com/aneesamjad2001)
 
 Thanks for visiting my profile.
